@@ -6,3 +6,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1, CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, UNIVISION
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1, FOX SPORTS
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1, TELEMUNDO 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1, TUDN USA
+http://45.68.35.218:4001/play/a00x/index.m3u8
