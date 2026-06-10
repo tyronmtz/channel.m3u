@@ -1,6 +1,6 @@
-#EXTINF:-1, CANAL 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="Nicaragua", CANAL 10
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
-#EXTINF:-1, CANAL 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telenica-canal-8.png/250px-Telenica-canal-8.png" group-title="Nicaragua", CANAL 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1, CANAL 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
