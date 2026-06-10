@@ -2,22 +2,16 @@
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telenica-canal-8.png/250px-Telenica-canal-8.png" group-title="Nicaragua", CANAL 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
-#EXTINF:-1, CANAL 20
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mRUs2di6I0DOPjNchStqW_tqT8RjJuiMGOPNuQd8ymMHI=s900-c-k-c0x00ffffff-no-rj" group-title="Nicaragua", CANAL 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1, TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Internacionales", TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="Internacionales", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1, LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Internacionales", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1, ANTENA 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1, LA SEXTA
-http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1, UNIFE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_unife_vertical.png" group-title="Internacionales", UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#EXTINF:-1, PARAMOUNT
-http://181.78.109.48:8000/play/a063/index.m3u8
 #EXTINF:-1, BOLIVISION
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1, VENEVISION INTERNACIONAL
