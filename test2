@@ -12,10 +12,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_unife_vertical.png" group-title="Internacionales", UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#EXTINF:-1, BOLIVISION
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1, VENEVISION INTERNACIONAL
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" group-title="Internacionales", TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/nbcuniversalnewsgroup.com/telemundo/wp-content/uploads/sites/7/2025/05/image-6.png" group-title="Internacionales", Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, UNIVISION
