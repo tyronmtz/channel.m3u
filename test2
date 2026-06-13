@@ -20,6 +20,8 @@ https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 https://www.flowmundialhd.com/p/khala.skylivehd.com/global/dsports/tracks-v1a1/mono.m3u8?token=bdd57ae261dded6bc2450d6053180e3df13156ca-16-1781259892-1781205892&_r=https%3A%2F%2Frusticotv.su%2F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="Internacionales", Win Sports
 https://www.flowmundialhd.com/p/qzv4jmsc.fubo18.com/winsports/mono.m3u8?token=2628abd5703bc8a1dd2dbc7edf2a47c1bf730c55-6f-1781402769-1781384769
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Internacionales", ESPN
+https://www.flowmundialhd.com/p/ewvz.fubo18.com/espn/mono.m3u8?token=0827fac1fca2538dce383dd356da1f113da29918-ae-1781402972-1781384972
 #EXTINF:-1, CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, UNIVISION
