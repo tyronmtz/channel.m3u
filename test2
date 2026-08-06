@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 1
+https://redpointt.duckdns.org:35880/hls/canal.m3u8
+#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 2
+https://redpointt.duckdns.org:35880/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logotipo_de_Canal_10_Nicaragua_%282021%29.svg/3840px-Logotipo_de_Canal_10_Nicaragua_%282021%29.svg.png" group-title="Nicaragua", CANAL 10
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="Nicaragua", CANAL 8
