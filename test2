@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 1
+#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", La Casa Gala
 https://redpointt.duckdns.org:35880/hls/canal.m3u8
-#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 2
+#EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 24/7
 https://redpointt.duckdns.org:35880/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="Nicaragua", CANAL 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
