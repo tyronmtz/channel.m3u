@@ -2,30 +2,18 @@
 https://redpointt.duckdns.org:35880/hls/canal.m3u8
 #EXTINF:-1 tvg-logo="https://ncp-prod-use1-public-static.s3.us-east-1.amazonaws.com/strapi-smart-microsite-uploads/medium_La_Casa_Des_Los_Famosos_Logo_Merch_Carousel_26bb7d43b2.png" group-title="LCDFMX", Canal 2
 https://redpointt.duckdns.org:35880/hls/canal2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logotipo_de_Canal_10_Nicaragua_%282021%29.svg/3840px-Logotipo_de_Canal_10_Nicaragua_%282021%29.svg.png" group-title="Nicaragua", CANAL 10
-https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="Nicaragua", CANAL 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua", CANAL 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Internacionales", TELEMUNDO
-https://nl-081-v1.vivocdn.xyz/1781398234/6fb83b06e405448e89fbedd1646b2fba/qFrlyILmZ3skLgI4PBL4ONLf_Bb2lEz9rGMc-xQPQOw/telemundo-usa.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="Internacionales", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Internacionales", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_unife_vertical.png" group-title="Internacionales", UNIFE
-https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" group-title="Internacionales", TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/nbcuniversalnewsgroup.com/telemundo/wp-content/uploads/sites/7/2025/05/image-6.png" group-title="Internacionales", Telemundo Noticias Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/3840px-DirecTV_Sports_logo.svg.png" group-title="Internacionales", D Sports
-https://nl-081-v1.vivocdn.xyz/1781398048/fb937fe25feb44d3b02305db790b52b9/-1Tg5eJURUXro58nfJJmgXeAekCIgIhRKwON4Oo1x0k/dsports-ar.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png" group-title="Internacionales", Win Sports
-https://www.flowmundialhd.com/p/qzv4jmsc.fubo18.com/winsports/mono.m3u8?token=2628abd5703bc8a1dd2dbc7edf2a47c1bf730c55-6f-1781402769-1781384769
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Internacionales", ESPN
-https://www.flowmundialhd.com/p/ewvz.fubo18.com/espn/mono.m3u8?token=0827fac1fca2538dce383dd356da1f113da29918-ae-1781402972-1781384972
 #EXTINF:-1, CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, UNIVISION
